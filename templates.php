@@ -8,10 +8,4 @@
     <meta property="og:type" content="restaurant.restaurant"/>
     <meta property="og:image" content="http://www.akayakiniku.com/images/aka/menu/banner.jpg"/>
     <meta property="og:description" content="ร้านอาหารญี่ปุน AKA YAKINIKU ให้บริการ ทั้งแบบ A LA CART และ BUFFET โดยมีสาขามากกว่า 17 สาขา ในประเทศไทย ครอบคลุมพื้นที่กรุงเทพมหานครและเมืองหลักๆ ตามภูมิภาคต่างๆ ของประเทศ"/>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-    (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-9754282630311346",
-        enable_page_level_ads: true
-    });
-</script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9754282630311346" crossorigin="anonymous"></script>
