@@ -31,9 +31,10 @@
 	<link href="<?php echo $root; ?>css/jquery.custom-scrollbar.css?v=<?php echo $version; ?>" rel="stylesheet" type="text/css" />
 	<link href="<?php echo $root; ?>css/style.css?v=<?php echo $version; ?>" rel="stylesheet" type="text/css" />
 	<link href="<?php echo $root; ?>css/social.css?v=<?php echo $version; ?>" rel="stylesheet" type="text/css" />
-	<script src="https://kit.fontawesome.com/af1cde827e.js" crossorigin="anonymous"></script>
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9035780560703580" crossorigin="anonymous"></script>
-
+	<!-- Este script no estaba presente en el backup -->
+	<!-- <script src="https://kit.fontawesome.com/af1cde827e.js" crossorigin="anonymous"></script> -->
+	
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
